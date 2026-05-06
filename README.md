@@ -45,7 +45,7 @@ El sistema **no está orientado al pasajero final** y no expone funcionalidades 
 |------------|--------|-----|
 | Erick Daniel Ortega Moran | 20210209H | Líder / Business Analyst — Requisitos, frontend, gestión de backlog |
 | Cesar Abrahan Correa Mullisaca | 20220305J | Dev — Backend y fusión frontend-backend |
-| Isaac Antonio Martel Balvin | 20231462D | Dev — Backend principal e integración del sistema |
+| Isaac Antonio Martel Balvin | 20231462D | Dev — Backend e integración del sistema |
 | Diego Torres Picho | 20204113B | Creacion de DB, QA — Datos de prueba y testing manual |
 | Ivett Marinella Mera Amado | 20191471H | QA — Investigación de datos del Metropolitano y testing |
 
